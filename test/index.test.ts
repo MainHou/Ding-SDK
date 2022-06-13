@@ -1,3 +1,5 @@
-const { DingSDk } = require('../dist/index');
+const {DingSDk} = require('../index');
 
-test('test DingSDk', () => { expect(DingSDk('test')).toBe('hello,DingDing JavaScript SDK'); });
+test('test DingSDk', () => {
+  expect(DingSDk('test')).toBe('hello,DingDing JavaScript SDK');
+});
