@@ -17,8 +17,8 @@ Ding-SDk
   <a href="https://www.npmjs.com/package/ding-sdk" title="npm">
     <img src="https://img.shields.io/npm/l/ding-sdk.svg?style=flat-square" alt="npm"/>
   </a>
-  <a href="https://github.com/mainhou/ding-sdk/actions">
-    <img src="https://github.com/mainhou/ding-sdk/workflows/CI/badge.svg" />
+  <a href="https://app.travis-ci.com/MainHou/Ding-SDK"></a>
+    <img src="https://app.travis-ci.com/MainHou/Ding-SDK.svg?branch=master" />
   </a>
    <a href="https://badge.fury.io/js/ding-sdk" title="npm">
     <img src="https://img.shields.io/npm/v/ding-sdk.svg?style=flat-square" alt="npm version"/>
@@ -26,18 +26,7 @@ Ding-SDk
   <a href="https://lgtm.com/projects/g/mainhou/ding-sdk/context:javascript">
     <img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/mainhou/ding-sdk.svg?logo=lgtm&logoWidth=18"/>
   </a>
-  <a href="https://codecov.io/gh/mainhou/ding-sdk">
-    <img src="https://codecov.io/gh/mainhou/ding-sdk/branch/master/graph/badge.svg" />
-  </a>
-  <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/ding-sdk?style=flat-square">
-  <a href="https://david-dm.org/mainhou/ding-sdk" title="dependencies status"><img src="https://david-dm.org/mainhou/ding-sdk/status.svg"/></a>
-  <a href="https://david-dm.org/mainhou/ding-sdk?type=dev" title="devDependencies status"><img src="https://david-dm.org/mainhou/ding-sdk/dev-status.svg"/></a>
-  <a href="https://github.com/semantic-release/semantic-release" title="semantic-release">
-    <img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" alt="semantic release"/>
-  </a>
-  <a href="https://visitor-badge.glitch.me" title="visitor">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mainhou.ding-sdk" alt="visitor"/>
-  </a>
+
 </p>
 
 <p align="center">
@@ -59,39 +48,6 @@ using `npm` :
 ```bash
 npm install ding-sdk --save
 ```
-
-## :framed_picture: Screenshots
-
-> mini mode <br/>
-
-![mini mode](https://github.com/mainhou/ding-sdk/blob/master/assetsImg/mini.png?raw=true)
-
-> Light Theme <br/>
-
-![light theme](https://github.com/mainhou/ding-sdk/blob/master/assetsImg/light-theme.png?raw=true)
-
-> Dark Theme <br/>
-
-![dark theme](https://github.com/mainhou/ding-sdk/blob/master/assetsImg/dark-theme.png?raw=true)
-
-> mobile <br/>
-
-![mobile](https://github.com/mainhou/ding-sdk/blob/master/assetsImg/mobile.jpg?raw=true)
-
-## :sparkles: Feature list
-
-- [x] TODO1
-
-## :eyes: Example
-
-> live example :
-
-- [https://mainhou.github.io/ding-sdk/](https://mainhou.github.io/ding-sdk/)
-
-> local example : [http://localhost:8081/](http://localhost:8081/)
-
-[Source Code](https://github.com/mainhou/ding-sdk/blob/master/example/example.js)
-
 ## :memo: Usage
 
 ``` js
